@@ -1,0 +1,114 @@
+/*=== CONFIGURAÇÕES GERAIS======*/
+
+
+/*ESTILO DO CORPO DA PÁGINA*/
+body{
+    font-family: Arial, Helvetica, sans-serif; /*fonte*/
+    margin: 0; /*margem defina como zero ou seja sem margem*/
+    padding: 0; /*espaçamento*/
+    color: white; /*cor do texto*/
+    background-color: #ae8b5f ; /*cor do fundo da pagina*/   
+}
+
+/* ESTILO APLICADO AOS TITULOS "H´S" */
+h1, h2, h3{
+    color:black ;
+    text-align: center; /*alinhamnento do textos "h´s"*/
+}
+
+/* estilos paragrafos */
+p{
+    line-height: 1.6; /*espaçamento entre cada linha*/
+    margin: 10px; /*margem (espaçamento entre paragrafos)*/
+    text-align: center; /*alinhamnento do textos "p´s"*/
+}
+
+/* Estilo do cabeçalho da pagina "HEADER" E "MENU" */
+
+header{
+    background-color: #f2e6d0;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+}
+
+.logo a {
+    text-decoration: none; /*sublinahdo do link*/
+    font-size: 20px; 
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+/*conteiner do menu*/
+.menu{
+    text-align: center; /*centraliza os links*/
+    margin-top: 10px; /*margem/espaçamento do topo*/ 
+}
+/*estilo dos links do menu*/
+.menu a {
+    color: rgb(0, 0, 0);
+    text-decoration: none; 
+    margin: 15px;
+    font-weight: bold; /*negrito*/
+}
+
+.menu a:hover{
+    color:#ae8b5f
+}
+
+.li{
+    text-align: center;
+
+}
+
+ul {
+  width: 15%;
+  margin: 0 auto
+}
+
+/*=========SEÇÃO PRINCIPAL========*/
+/*AREA DE DESTAQUE SUPERIOR*/
+.hero{
+background-color: #ae8b5f;
+text-align: center;
+padding: 60px 20px;
+}
+/*titulo da hero*/
+.hero h1{
+    font-size: 35px;
+    color: black;
+}
+/* paragrafo da hero */
+.hero p {
+    font-size: 10px;
+    margin-bottom: 20px;
+}
+
+.receitas { 
+    padding: 100px;
+}
+
+
+/*RODAPE*/
+/*AREA inferior fixa na pagina */
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #daab73;
+    color: rgb(0, 0, 0) ;
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+}
+
+/*links dentor do rodapé*/
+
+footer a{
+    color: black; /*texto laranha*/
+    text-decoration: none;
+}
+footer a:hover{
+    color:#664f3f
+}
