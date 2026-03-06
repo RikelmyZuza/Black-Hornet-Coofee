@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "título":"Café gelado",
+        "img":"../Black Hornet Coofee 2.0/img/icedmoka.jpg",
+        "descricao": "O café gelado é uma bebida refrescante feita com café (expresso ou coado) resfriado e servido com gelo, ideal para dias quentes."
+    },
+
+    {
+        "id":2,
+        "título":"Café dalgona",
+        "img":"../Black Hornet Coofee 2.0/img/café dalgona.webp",
+        "descricao": "O café Dalgona é uma bebida cremosa e aerada, feita batendo partes iguais de café solúvel, açúcar e água quente até formar uma espuma densa, servida sobre leite frio ou quente."  
+    },
+ {
+        "id":3,
+        "título":"Latte de Coco",
+        "img":"../Black Hornet Coofee 2.0/img/Latte de coco gelado.webp",
+        "descricao": "O Latte de Coco é uma bebida cremosa e perfumada, composta por café expresso e leite de coco, oferecendo uma alternativa sem lactose e vegana ao latte tradicional."
+    },
+
+    {
+        "id":4,
+        "título":"Cappucino com Especiarias",
+        "img":"../Black Hornet Coofee 2.0/img/icedmoka.jpg",
+        "descricao": "O cappuccino com especiarias é uma variação aromática e aconchegante da bebida clássica, combinando café expresso e leite cremoso com ingredientes intensos como canela, noz-moscada, gengibre, cravo ou pimenta."  
+    },
+ {
+        "id":5,
+        "título":"Milkshake de Banana",
+        "img":"../Black Hornet Coofee 2.0/img/Milkshake de Banana com café.webp",
+        "descricao": "O milkshake de banana é uma bebida gelada, cremosa e doce, preparada batendo bananas maduras (frequentemente congeladas para maior textura) com leite e sorvete de baunilha. "
+    }
+
+  
+]
